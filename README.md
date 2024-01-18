@@ -1,6 +1,6 @@
 # LSTM_Stock_prediction
-<br>
-LSTM model is used to forecast the stock data for Top Banknifty banks. 
+
+LSTM model is used to forecast the stock data for Top Banknifty banks.
 <br><br>
 To run Web app: <br>
 `git clone https://github.com/Manikumarksr/LSTM_Stock_prediction.git`
